@@ -1,0 +1,81 @@
+body{
+	background-color: #fff;
+	color: #fff;
+}
+nav{
+	background-color: #fff;
+	color: #000; 
+}
+.btn{
+
+	background-color: #fe2d91;
+}
+footer{
+	background-color: #fff;
+	color: #000; 
+}
+.navbar-brand{
+	font-size: 35px;
+	font-family: Spectral;
+	font-weight: 700;
+	letter-spacing: 2px;
+
+}
+.form-control{
+	border: none;
+	background-color: rgb(137, 137, 119);
+	text-align: center;
+	font-size: 25px;
+	height: 70px;
+	color: #000;
+
+}
+.input-lg{
+	height: 70px;
+	color: #000;
+}
+.main{
+	background-color: #ffefba;
+	width: 100%;
+	height: 590px;
+	margin-left: auto;
+	margin-right: auto; */
+}
+.socials{
+	margin-top: 600px;
+	color: #bacaff;
+}
+.ini{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: Comic Sans MS;
+
+}
+.act{
+	background-color: red !important;
+}
+
+#head{
+	margin-top: 5%;
+	font-size: 70px;
+	text-align: center;
+}
+
+
+.convertArea{
+	margin-top: 30px;
+}
+.jumbotron{
+	background-color: #898977;
+	height: 500px; 
+}
+
+ a{
+	color: #000 !important;
+	font-weight: bolder;
+	font-size: 20px;
+}
+.form-control::placeholder {
+    color: #000;
+    opacity: 1;
+}
